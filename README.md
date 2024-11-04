@@ -8,4 +8,3 @@
     ├── model                  # the model files based on the training methods 
     ├── notebooks              # jupyter notebook files
     ├── scripts                # other util scripts for this project
-    └── README.md
