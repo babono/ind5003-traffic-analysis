@@ -1,0 +1,15 @@
+names:
+- vehicle-causeway-johor
+- vehicle-causeway-singapore
+- vehicle-secondlink-johor
+- vehicle-secondlink-singapore
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: traffic-analysis-zhdkt
+  url: https://universe.roboflow.com/babono/traffic-analysis-zhdkt/dataset/10
+  version: 10
+  workspace: babono
+test: ../test/images
+train: ../train/images
+val: ../valid/images
